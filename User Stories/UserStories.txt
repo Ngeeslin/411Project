@@ -1,0 +1,7 @@
+User Stories:
+
+Someone who is new in town wants to find a good place to eat in their area, so they download our app and create an account. They look for tweets in the area about restaurants.  The tweets are pulled up, and the restaurants they are talking about are found on instagram.  Photos are pulled up using the restaurant's relevant instagram hashtags.
+
+Someone is bored and wants to know if there are any interesting events happening in their area. They can open our app, then find recent events that are happening in the area. We will provide relevant tweets and pictures for the event to let the users decide whether they would like to attend the event.
+
+When someone is bored, and wants to know what is trending on social media in his or her area. They can open the app and find popular topics. They can get the information from both twitter and instagram’s popular hashtags to figure out what are people are talking about online.  
